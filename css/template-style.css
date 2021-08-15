@@ -278,7 +278,7 @@ address i.icon {
 address p {
 	line-height: 2.5em;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 660px) {
   a.logo {
   	display: block;
   	text-align: center;
